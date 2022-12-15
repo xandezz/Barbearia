@@ -11,3 +11,5 @@ Descrição do site
 É um site de uma barbearia no qual adicionei um vídeo do youtube 
 e uma localização do google maps, nesse projeto fiz toda a parte do html
 e o basico do css.
+
+link do projeto: https://xandezz.github.io/Barbearia/
